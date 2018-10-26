@@ -18,4 +18,5 @@
 \Registration Free Deployment
 \Take Screenshots During Recording
 \Video Audio Settings
+\Video Quality Profiles
 \WEBM - Capture From Entire Screen
