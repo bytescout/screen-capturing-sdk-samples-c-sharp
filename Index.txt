@@ -1,22 +1,22 @@
 ## Index of source code examples:
 
-\Add Text And Image Overlays to screen recording
-\Blackout Sensitive Info on screen video
-\Capture From Entire Screen as WEBM video
-\Capture screen and Add Time Stamp on video
-\Capture screen video with Webcamera Overlay
-\Capture video From Entire Screen
-\Capture video From Given Region
-\Capture video From Given Window
-\Capture video from Region Around Mouse
-\Capture video From Separate Thread
+\Add Text And Image Overlays to Screen Recording
+\Blackout Sensitive Info on Screen Video
+\Capture From Entire Screen as WEBM Video
+\Capture Screen and Add Time Stamp on Video
+\Capture Screen Video with Webcamera Overlay
+\Capture Video From Entire Screen
+\Capture Video From Given Region
+\Capture Video From Given Window
+\Capture Video from Region Around Mouse
+\Capture Video From Separate Thread
 \Capture WebCam Full Screen Only
 \Create Full Featured Screen Capturing App
 \Make Full Screen Recording Demo 2 with Text And Images Overlay
 \Pause And Resume
-\record screen from Command line console
+\Record Screen from Command Line Console
 \Set Video Audio Settings
-\Take Screenshots During video Recording
-\Use Low FPS and Min File Size for video
+\Take Screenshots During Video Recording
+\Use Low FPS and Min File Size for Video
 \Use Registration Free Deployment
 \Use Video Quality Profiles
