@@ -13,6 +13,8 @@
 \Capture WebCam Full Screen Only
 \Create Full Featured Screen Capturing App
 \Make Full Screen Recording Demo 2 with Text And Images Overlay
+\Merge AVI Video Files
+\Merge WMV Video Files
 \Pause And Resume
 \Record Screen from Command Line Console
 \Set Video Audio Settings
